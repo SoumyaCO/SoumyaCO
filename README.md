@@ -16,6 +16,9 @@
   <a href="https://medium.com/@soumyadipbhat2002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
+  <a href="https://medium.com/@soumyadipbhat2002" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25" alt="hashnode logo"  />
+  </a>
   <a href="https://twitter.com/SoumyadipBhat19" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
@@ -31,7 +34,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm <strong>Soumyadip</strong> from West Bengal, India<br><br>- 🔭 I have a <strong>bachelor's degree in physics</strong> and...<br> - 🧑‍🎓 am pursuing a <strong>master's degree in computer science</strong>.<br>- 📚 I'm currently learning <strong>ML and DL</strong><br>- ⚡ In my free time I like to try new library / framework</p>
+<p align="left">I'm <strong>Soumyadip</strong> from Kolkata, India<br><br>- 🔭 I have a <strong>bachelor's degree in physics</strong> and...<br> - 🧑‍🎓 am pursuing a <strong>master's degree in computer science</strong>.<br>- 📚 I'm currently learning <strong>ML and DL</strong><br>- ⚡ In my free time I like to try new library / framework</p>
 
 ###
 ***
