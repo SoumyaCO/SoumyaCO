@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/@soumyadipbhat2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
   <a href="https://soumyadip.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25" alt="hashnode logo"  />
   </a>
