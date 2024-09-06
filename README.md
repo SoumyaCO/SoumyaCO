@@ -1,7 +1,7 @@
 <div align="center"> 
   
 <!--![my_animation](https://github.com/SoumyaCO/SoumyaCO/assets/101652501/1d6b0bc1-e8f1-4716-94b3-736a725a3126 -->
-![banner-attempt-1](https://github.com/user-attachments/assets/2d174183-f822-49a8-9934-5d5b1c30290f)
+<img src="https://github.com/user-attachments/assets/2d174183-f822-49a8-9934-5d5b1c30290f" height="320px" width="640px"/>
 </div>
 
 <div align="center">
@@ -21,20 +21,16 @@
   </a>
 </div>
 
-### [![Nothing](https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966)]()About Me
+### About Me
+<!-- [![Nothing](https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966)]() --->
 
-<img align="right" src="https://github.com/user-attachments/assets/00d3c194-7240-41a1-b506-b9cba293274f" width="300px"/>
-
-<div align="left">
+<!-- <img align="right" src="https://github.com/user-attachments/assets/00d3c194-7240-41a1-b506-b9cba293274f" width="300px"/> -->
 
 &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Working hard to learn more and get into tech industry. \
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Problem Solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;📚 &nbsp;Reads lot of documentations and Bbooks.
+&nbsp;&nbsp;&nbsp;📚 &nbsp;Read lot of documentations and books.
 
-</div>
-
-
-
+<div>
 <details>
   <summary>
     <b>💻 Main Tech Knowledge</b>
@@ -59,6 +55,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=neovim,git,github,obsidian)](https://skillicons.dev)
 </details>
+</div>
 
 
 
