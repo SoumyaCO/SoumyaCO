@@ -1,13 +1,13 @@
-<div align="center">
+<div align="center"> 
   
-![my_animation](https://github.com/SoumyaCO/SoumyaCO/assets/101652501/1d6b0bc1-e8f1-4716-94b3-736a725a3126)
-
+<!--![my_animation](https://github.com/SoumyaCO/SoumyaCO/assets/101652501/1d6b0bc1-e8f1-4716-94b3-736a725a3126 -->
+![banner-attempt-1](https://github.com/user-attachments/assets/2d174183-f822-49a8-9934-5d5b1c30290f)
 </div>
 
-
-
-
-###
+<div align="center">
+  
+![gradient-line](https://github.com/user-attachments/assets/867b0bab-23d5-4200-8ada-b821d2c0a4a9)  
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/" target="_blank">
@@ -21,70 +21,44 @@
   </a>
 </div>
 
-***
+### [![Nothing](https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966)]()About Me
 
-<h1 align="center">Let's build something amazing! </h1>
-
-***
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">I'm <strong>Soumyadip</strong> from Kolkata, India<br><br> Love to code and build structured softwares, <br/> Currently looking for <em>full time backend, DevOps, Fullstack jobs.</em></p>
-
-***
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<img align="right" src="https://github.com/user-attachments/assets/00d3c194-7240-41a1-b506-b9cba293274f" width="300px"/>
 
 <div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" height="40" alt="socket.io logo"/>
-  <img width="12" />  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="jest logo"/>
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="golang logo" />
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo" />
-  <img width="12" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" alt="neovim logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux-logo" />
-  <img width="12" />   
+
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Working hard to learn more and get into tech industry. \
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Problem Solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;📚 &nbsp;Reads lot of documentations and Bbooks.
+
 </div>
 
-***
+
+
+<details>
+  <summary>
+    <b>💻 Main Tech Knowledge</b>
+  </summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=go,ts,js,python,postgres,mongodb,jenkins,docker,nodejs,react)](https://skillicons.dev)
+  
+</details>
+
+<details>
+  <summary>
+    <b>🧠 Other Knowledge, Still Learning</b>
+  </summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=lua,kubernetes,aws,gcp)](https://skillicons.dev)
+</details>
+
+<details>
+  <summary>
+    <b>🧰 Tools I use daily</b>
+  </summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=neovim,git,github,obsidian)](https://skillicons.dev)
+</details>
+
 
 
