@@ -13,45 +13,49 @@
   <a href="https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://soumyadip.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25" alt="hashnode logo"  />
+  <a href="https://soumyadip.gooddevs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=internet&logoColor=white" height="25" alt="hashnode logo"  />
   </a>
   <a href="https://twitter.com/SoumyadipBhat19" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
-### About Me
-<!-- [![Nothing](https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966)]() --->
 
-<!-- <img align="right" src="https://github.com/user-attachments/assets/00d3c194-7240-41a1-b506-b9cba293274f" width="300px"/> -->
+## 👋 Hey there! I’m Soumyadip Bhattacharjya
 
-&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Working hard to learn more and get into tech industry. \
-&nbsp;&nbsp;&nbsp;💓 &nbsp;Problem Solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;📚 &nbsp;Read lot of documentations and books.
+I’m a backend-focused full-stack developer & DevOps enthusiast passionate about designing robust, scalable, and high-performance applications. I have hands-on experience in Golang, Node.js, TypeScript, Python, and DevOps tools like AWS, Kubernetes, and Jenkins.
+
+🔹 What I build:
+
+- Backend APIs & Microservices using Go, Node.js, Python
+- Full-Stack Web Apps with React, Next.js, TypeScript
+- Scalable Cloud Infrastructure with AWS, Docker, Kubernetes
+- CI/CD & Automation using Jenkins, GitHub Actions
 
 <div>
-<details>
+<details open>
   <summary>
-    <b>💻 Main Tech Knowledge</b>
+    <b>💻 Techs I work with</b>
   </summary>
+  <br />
   
   [![My Skills](https://skillicons.dev/icons?i=go,ts,js,python,postgres,mongodb,jenkins,docker,nodejs,react)](https://skillicons.dev)
   
 </details>
-
-<details>
+<details open>
   <summary>
-    <b>🧠 Other Knowledge, Still Learning</b>
+    <b>🧠 Platforms </b>
   </summary>
+  <br/>
   
   [![My Skills](https://skillicons.dev/icons?i=lua,kubernetes,aws,gcp)](https://skillicons.dev)
 </details>
-
-<details>
+<details open>
   <summary>
-    <b>🧰 Tools I use daily</b>
+    <b>🧰 Tools</b>
   </summary>
+  <br/>
   
   [![My Skills](https://skillicons.dev/icons?i=neovim,git,github,obsidian)](https://skillicons.dev)
 </details>
