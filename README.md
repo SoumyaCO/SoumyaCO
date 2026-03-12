@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://soumyadip.gooddevs.org" target="_blank">
+  <a href="https://heysoumya.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=internet&logoColor=white" height="25" alt="hashnode logo"  />
   </a>
   <a href="https://twitter.com/SoumyadipBhat19" target="_blank">
